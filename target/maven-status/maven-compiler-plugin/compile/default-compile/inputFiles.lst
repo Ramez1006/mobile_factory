@@ -1,0 +1,14 @@
+/home/ubuntu/mobile_factory/src/main/java/com/mobileapp/components/TextField.java
+/home/ubuntu/mobile_factory/src/main/java/com/mobileapp/factory/AndroidUIFactory.java
+/home/ubuntu/mobile_factory/src/main/java/com/mobileapp/components/ios/IosTextField.java
+/home/ubuntu/mobile_factory/src/main/java/com/mobileapp/app/Application.java
+/home/ubuntu/mobile_factory/src/main/java/com/mobileapp/components/android/AndroidButton.java
+/home/ubuntu/mobile_factory/src/main/java/com/mobileapp/components/ios/IosWindow.java
+/home/ubuntu/mobile_factory/src/main/java/com/mobileapp/components/android/AndroidWindow.java
+/home/ubuntu/mobile_factory/src/main/java/com/mobileapp/components/ios/IosButton.java
+/home/ubuntu/mobile_factory/src/main/java/com/mobileapp/components/android/AndroidTextField.java
+/home/ubuntu/mobile_factory/src/main/java/com/mobileapp/app/Main.java
+/home/ubuntu/mobile_factory/src/main/java/com/mobileapp/components/Window.java
+/home/ubuntu/mobile_factory/src/main/java/com/mobileapp/factory/IosUIFactory.java
+/home/ubuntu/mobile_factory/src/main/java/com/mobileapp/components/Button.java
+/home/ubuntu/mobile_factory/src/main/java/com/mobileapp/factory/UIFactory.java
